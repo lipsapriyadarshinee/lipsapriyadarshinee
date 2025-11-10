@@ -2,15 +2,15 @@
 
 <h1 align="center">Hi there, I'm lipsa 👋</h1>
 <p align="center">
-  <a href="https://github.com/Subham389">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full‑stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Clean+code.+Real+impact.+Always+learning." alt="Typing SVG" />
+  <a href="https://github.com/lipsa">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Clean+code.+Real+impact.+Always+learning." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Subham389?tab=followers"><img src="https://img.shields.io/github/followers/Subham389?label=Followers&style=for-the-badge" /></a>
-  <a href="https://github.com/Subham389"><img src="https://img.shields.io/github/stars/Subham389?affiliations=OWNER&style=for-the-badge" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Subham389&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/lipsa?tab=followers"><img src="https://img.shields.io/github/followers/lipsa?label=Followers&style=for-the-badge" /></a>
+  <a href="https://github.com/lipsa"><img src="https://img.shields.io/github/stars/lipsa?affiliations=OWNER&style=for-the-badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=lipsa&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -43,17 +43,17 @@
 
 ## 🚀 Featured Projects
 
-* 📝 **Todo App – Spring Boot MVC**
-  CRUD tasks, mark complete/incomplete, responsive UI with Bootstrap, MySQL persistence.
-  ➤ Repo: `[Add link: https://github.com/Subham389/<repo-name>]`
+* 📝 **Todo App – Spring Boot MVC**  
+  CRUD tasks, mark complete/incomplete, responsive UI with Bootstrap, MySQL persistence.  
+  ➤ Repo: `[Add link: https://github.com/lipsa/<repo-name>]`
 
-* 💼 **Invoice Generator – React + Spring**
-  Generate, preview, and export invoices with client/product catalog and tax calculations.
-  ➤ Repo: `[Add link: https://github.com/Subham389/<repo-name>]`
+* 💼 **Invoice Generator – React + Spring**  
+  Generate, preview, and export invoices with client/product catalog and tax calculations.  
+  ➤ Repo: `[Add link: https://github.com/lipsa/<repo-name>]`
 
-* ☁️ **Cloud Computing Notes & Labs**
-  Summaries of Aneka, SaaS/DBaaS, and sample apps.
-  ➤ Repo: `[Add link: https://github.com/Subham389/<repo-name>]`
+* ☁️ **Cloud Computing Notes & Labs**  
+  Summaries of Aneka, SaaS/DBaaS, and sample apps.  
+  ➤ Repo: `[Add link: https://github.com/lipsa/<repo-name>]`
 
 > Tip: Replace the placeholders above with your actual repository links.
 
@@ -62,13 +62,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subham389&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lipsa&show_icons=true&theme=transparent" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Subham389&theme=transparent" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=lipsa&theme=transparent" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham389&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipsa&layout=compact&theme=transparent" alt="Top Langs" />
 </p>
 
 ---
@@ -100,7 +100,7 @@
 <p>
   <a href="https://www.linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://subham-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://lipsa-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 > Replace the placeholders with your real links.
@@ -109,7 +109,7 @@
 
 ## 🧡 Support
 
-If you like my work, consider starring the repos and sharing feedback.
+If you like my work, consider starring the repos and sharing feedback.  
 You can also add a support link here: `https://www.buymeacoffee.com/<your-id>`
 
 ---
